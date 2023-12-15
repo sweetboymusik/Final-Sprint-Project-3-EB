@@ -97,7 +97,7 @@ fetch("./data.json")
   .then((data) => {
     data.forEach((album) => {
       // display HTML
-      let albumContainer = document.createElement("div");
+      const albumContainer = document.createElement("div");
       albumContainer.innerHTML = generate_output(album, "html");
       document.body.appendChild(albumContainer);
 
