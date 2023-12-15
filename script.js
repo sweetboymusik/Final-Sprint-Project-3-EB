@@ -1,4 +1,4 @@
-// Fianl Sprint Project 3
+// Final Sprint Project 3
 // Reading JSON data and display as HTML using functions
 // Dates written: December 07, 2023 - Dec 15, 2023
 // Author: Elliott Butt
