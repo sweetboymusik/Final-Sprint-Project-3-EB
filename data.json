@@ -1,0 +1,86 @@
+[
+  {
+    "artist": "Britney Spears",
+    "title": "Oops!... I Did It Again",
+    "releaseDate": "05-03-2000",
+    "genres": ["Pop", "Dance", "Teen-pop"],
+    "length": "44:37",
+    "trackCount": "12",
+    "popSongs": ["Oops!... I Did It Again", "Stronger", "Lucky"],
+    "peakRank": "1",
+    "criticScore": "7",
+    "explicit": "false"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "The Best of Earth, Wind & Fire, Vol.1",
+    "releaseDate": "11-23-1978",
+    "genres": ["Disco", "Soul", "R&B"],
+    "length": "40:22",
+    "trackCount": "10",
+    "popSongs": ["September", "Reasons", " Fantasy"],
+    "peakRank": "3",
+    "criticScore": "10",
+    "explicit": "false"
+  },
+  {
+    "artist": "My Chemical Romance",
+    "title": "Three Cheers for Sweet Revenge",
+    "releaseDate": "06-08-2005",
+    "genres": ["Emo", "Alternative", "Pop-punk"],
+    "length": "39:36",
+    "trackCount": "13",
+    "popSongs": ["Helena", "I'm Not Okay (I Promise)", "The Ghost of You"],
+    "peakRank": "58",
+    "criticScore": "8",
+    "explicit": "true"
+  },
+  {
+    "artist": "Taylor Swift",
+    "title": "Midnights",
+    "releaseDate": "10-21-2022",
+    "genres": ["Pop", "Synth-pop", "Electropop"],
+    "length": "44:02",
+    "trackCount": "13",
+    "popSongs": ["Anti-Hero", "Karma", "Lavender Haze"],
+    "peakRank": "1",
+    "criticScore": "8.5",
+    "explicit": "false"
+  },
+  {
+    "artist": "Chainsmokers",
+    "title": "Collage",
+    "releaseDate": "07-29-2016",
+    "genres": ["Electronic", "EDM", "Future Bass"],
+    "length": "18:47",
+    "trackCount": "4",
+    "popSongs": ["Closer", "Setting Fires", "All We Know"],
+    "peakRank": "1",
+    "criticScore": "7",
+    "explicit": "false"
+  },
+  {
+    "artist": "The Notorious B.I.G.",
+    "title": "Life After Death",
+    "releaseDate": "03-25-1997",
+    "genres": ["Hip-hop", "Rap"],
+    "length": "120:39",
+    "trackCount": "25",
+    "popSongs": ["Hypnotize", "Mo Money Mo Problems", "Sky's the Limit"],
+    "peakRank": "8",
+    "criticScore": "9",
+    "explicit": "true"
+  },
+  {
+    "artist": "Metallica",
+    "title": "Master of Puppets",
+    "releaseDate": "03-03-1986",
+    "genres": ["Metal", "Thrash Metal"],
+    "length": "55:52",
+    "trackCount": "8",
+    "popSongs": ["Master of Puppets", "Battery", "Disposable Heroes"],
+    "peakRank": "29",
+    "criticScore": "9.5",
+    "explicit": "true"
+  }
+]
